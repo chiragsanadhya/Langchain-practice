@@ -6,3 +6,5 @@ pypdf
 bs4
 arxiv
 pymupdf
+langchain-text-splitters
+lxml
