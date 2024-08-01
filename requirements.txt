@@ -9,3 +9,5 @@ pymupdf
 langchain-text-splitters
 lxml
 chromadb
+sentence_transformers
+langchain_huggingface
